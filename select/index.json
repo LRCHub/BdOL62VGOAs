@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "sacrifice",
+  "base_artist": "RYKEY",
+  "createdAt": "2026-02-07T12:08:40.045791Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Canticle of Sacrifice",
+      "artist": "Russell Brower feat. Derek Duke",
+      "has_synced": false,
+      "path": "select/01_Canticle_of_Sacrifice_Russell_Brower_feat._Derek_Duke.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Canticle Of Sacrifice",
+      "artist": "Russell Brower",
+      "has_synced": false,
+      "path": "select/02_Canticle_Of_Sacrifice_Russell_Brower.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sacrifice",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/03_Sacrifice_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sacrifice",
+      "artist": "The Roots feat. Nelly Furtado",
+      "has_synced": true,
+      "path": "select/04_Sacrifice_The_Roots_feat._Nelly_Furtado.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sacrifice",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/05_Sacrifice_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sacrifice (Live On BBC Radio One's Worldwide Show With Gilles Peterson)",
+      "artist": "The Roots",
+      "has_synced": false,
+      "path": "select/06_Sacrifice_(Live_On_BBC_Radio_One's_Worldwide_Show_With_Gilles_Peterson)_The_Roots.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Street Nigga Sacrifice",
+      "artist": "Migos",
+      "has_synced": true,
+      "path": "select/07_Street_Nigga_Sacrifice_Migos.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Altar Of Sacrifice",
+      "artist": "Slayer",
+      "has_synced": false,
+      "path": "select/08_Altar_Of_Sacrifice_Slayer.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Altar of Sacrifice",
+      "artist": "Slayer",
+      "has_synced": true,
+      "path": "select/09_Altar_of_Sacrifice_Slayer.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Free Will Sacrifice",
+      "artist": "Amon Amarth",
+      "has_synced": false,
+      "path": "select/10_Free_Will_Sacrifice_Amon_Amarth.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sacrifice",
+      "artist": "September",
+      "has_synced": false,
+      "path": "select/11_Sacrifice_September.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sacrifice",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/12_Sacrifice_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sacrifice",
+      "artist": "Tiffany",
+      "has_synced": true,
+      "path": "select/13_Sacrifice_Tiffany.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sacrifice",
+      "artist": "Suzi Sabotage",
+      "has_synced": false,
+      "path": "select/14_Sacrifice_Suzi_Sabotage.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sacrifice (Carnal Machinery Remix)",
+      "artist": "Suzi Sabotage feat. Carnal Machinery",
+      "has_synced": false,
+      "path": "select/15_Sacrifice_(Carnal_Machinery_Remix)_Suzi_Sabotage_feat._Carnal_Machinery.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sacrifice (Carnal Machinery remix)",
+      "artist": "Suzi Sabotage",
+      "has_synced": false,
+      "path": "select/16_Sacrifice_(Carnal_Machinery_remix)_Suzi_Sabotage.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sacrifice",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/17_Sacrifice_Björk.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Sacrifice (Matthew Herbert's Pins and Needles Mix)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/18_Sacrifice_(Matthew_Herbert's_Pins_and_Needles_Mix)_Björk.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "sacrifice",
+      "artist": "RYKEY",
+      "has_synced": false,
+      "path": "select/pl_01_sacrifice_RYKEY.txt"
+    }
+  ]
+}
